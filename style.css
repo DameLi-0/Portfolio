@@ -58,6 +58,7 @@ nav ul li {
 .page-content header p {
 	line-height: 30px;
 	color: #818181;
+  font-size: 20px;
 }
 .page-content header button:hover {
 	color: #ccc;
@@ -91,24 +92,45 @@ nav ul li {
 	margin-right: 20px;
 	max-width: 195px;
   color: white;
+  text-align: center;
 }
 .page-content .projects-section .project h4 {
 	margin: 0;
   color: white;
+  font-size: 22px;
 }
 .page-content .projects-section .project .description {
-	font-size: 10px;
   color: white;
+  font-size: 14px;
 }
 .page-content .projects-section .project .dates {
-	font-size: 13px;
 	color: rgb(145, 145, 145);
+  font-size: 13px;
+}
+
+.bt_blanc{
+  cursor: pointer;
+  font-size: small;
+  background-color: black;
+  border-radius: 25px;
+  color: white;
+  padding: 7px;
+  margin-top: 5px;
+  border: 1px solid white;
+}
+
+.bt_blanc:hover{
+  background-color: white;
+  color: black;
 }
 
 
 
-
-
+.title{
+  color: white;
+  text-align: center;
+  margin-top: 80px;
+}
 
 .container {
     display: flex;
@@ -116,7 +138,7 @@ nav ul li {
     flex-wrap: wrap;
     width: 800px;
     background: black;
-    margin: 100px auto;
+    margin: 50px auto;
     border-radius: 8px;
     padding: 1rem;
     border: 1px solid white;
@@ -165,9 +187,7 @@ nav ul li {
     transition: width 0.15s ease-out 0.15s, left 0.15s ease-out 0.15s, height 0.15s ease-out, opacity ease-out 0.3s;
 }
 .container .item-image {
-    padding: 2.4rem;
-    height: 4rem;
-    width: 4rem;
+    padding: 1.5rem;
 }
 .container .item-text {
     font-size: 1rem;
@@ -177,6 +197,7 @@ nav ul li {
     line-height: 1rem;
     transition: transform ease 0.4s, opacity ease 0.4s;
     opacity: 1;
+    line-height: 25px;
 }
 .container .item-link-desc {
     font-size: 1rem;
@@ -246,6 +267,11 @@ a{
   color: #fff;
   text-decoration: none;
 }
+
+#contact{
+  margin-top: 100px;
+}
+
 
 @media screen and (max-width: 700px) {
 	nav {
