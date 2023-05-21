@@ -35,6 +35,9 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé et qui sont présent
 
 2. CAFOMA Mobile : 
    Ce projet à été réaliser au cours de mon BTS SIO opt. SLAM, une application mobile de e-learning proposant différentes formations post-bac destiner aux étudiants d'Afrique Subsaharienne.
+   
+3. Installation d'AgentGPT :
+   Mise en oeuvre et rédaction d'un documentation sur comment intaller AgentGPT sur un systeme virtuel. 
 
 Je suis fier de chacun de ces projets et j'ai mis beaucoup d'efforts pour les rendre fonctionnels, bien conçus et performants. N'hésitez pas à les explorer pour en savoir plus sur mes compétences et mon style de développement.
 
@@ -51,7 +54,8 @@ Si vous souhaitez me contacter pour discuter d'une opportunité professionnelle 
 N'hésitez pas à me contacter si vous avez des questions, des commentaires ou si vous souhaitez discuter d'une collaboration.
 
 - Adresse e-mail : maxducroizet@gmail.com
-- Profil LinkedIn : https://www.linkedin.com/in/maxance-ducroizet-4a5297223/
-- Profil GitHub : https://github.com/DameLi-0
+- LinkedIn : https://www.linkedin.com/in/maxance-ducroizet-4a5297223/
+- GitHub : https://github.com/DameLi-0
+- Discord : DameLi#0649
 
 Je suis ouvert aux opportunités professionnelles et j'attends avec impatience de discuter avec vous !
