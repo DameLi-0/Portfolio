@@ -35,6 +35,9 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé et qui sont présent
 
 2. CAFOMA Mobile : 
    Ce projet à été réaliser au cours de mon BTS SIO opt. SLAM, une application mobile de e-learning proposant différentes formations post-bac destiner aux étudiants d'Afrique Subsaharienne.
+   
+3. Installation d'AgentGPT :
+   Mise en oeuvre et rédaction d'un documentation sur comment intaller AgentGPT sur un systeme virtuel. 
 
 Je suis fier de chacun de ces projets et j'ai mis beaucoup d'efforts pour les rendre fonctionnels, bien conçus et performants. N'hésitez pas à les explorer pour en savoir plus sur mes compétences et mon style de développement.
 
