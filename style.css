@@ -6,6 +6,10 @@ body {
 	margin: 0;
 }
 
+.comp{
+  font-size: 10px;
+}
+
 nav {
 	display: flex;
 	flex-wrap: wrap;
